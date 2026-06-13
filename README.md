@@ -6,9 +6,9 @@
 
 ### *Computer Engineer — (Half)Full Stack Developer — Here to make the digital world a better place.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shaker.spidrahub.com-b91c1c?style=for-the-badge)](https://shaker.spidrahub.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shakirbr-0A66C2?style=for-the-badge)](https://linkedin.com/in/shakirbr)
-[![Email](https://img.shields.io/badge/Email-shbhky@gmail.com-4285f4?style=for-the-badge)](mailto:shbhky@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaker.spidrahub.com-7b171a?style=for-the-badge&labelColor=2b3685)](https://shaker.spidrahub.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shakirbr-2b3685?style=for-the-badge&labelColor=7b171a)](https://linkedin.com/in/shakirbr)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-shbhky@gmail.com-7b171a?style=for-the-badge&labelColor=2b3685)](mailto:shbhky@gmail.com)
 
 </div>
 
@@ -18,19 +18,25 @@
 
 </div>
 
+<br>
+
 ## 🧭 About
 
 > A Computer Engineer building embedded systems, web apps, and cloud tooling. I focus on clear architecture, reliable prototypes, and well-documented delivery.
+
+<br>
 
 ## 🌐 Websites
 
 <div align="center">
 
-[![SpidraHub](https://img.shields.io/badge/SpidraHub-spidrahub.com-4c8bf5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spidrahub.com)
-[![BS Universe](https://img.shields.io/badge/BS%20Universe-bsu.spidrahub.com-4c8bf5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bsu.spidrahub.com)
-[![Waa](https://img.shields.io/badge/Waa-waa.spidrahub.com-4c8bf5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://waa.spidrahub.com)
+[![SpidraHub](https://img.shields.io/badge/SpidraHub-spidrahub.com-2b3685?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=7b171a)](https://spidrahub.com)&nbsp;&nbsp;
+[![BS Universe](https://img.shields.io/badge/BS%20Universe-bsu.spidrahub.com-7b171a?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2b3685)](https://bsu.spidrahub.com)&nbsp;&nbsp;
+[![Waa](https://img.shields.io/badge/Waa-waa.spidrahub.com-2b3685?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=7b171a)](https://waa.spidrahub.com)
 
 </div>
+
+<br>
 
 ## 🛠️ Core Skills
 
@@ -45,6 +51,8 @@
 
 </div>
 
+<br>
+
 ## ⭐ Quick Picks
 
 <div align="center">
@@ -54,6 +62,8 @@
 | **Work style** | Supreme Quality, Clear docs, iterative prototypes |
 
 </div>
+
+<br>
 
 ## 📫 Contact
 
