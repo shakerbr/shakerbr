@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b91c1c&height=80&section=header" width="100%"/>
+
 <div align="center">
 
 # Shaker Br 👋
@@ -10,7 +12,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b91c1c&height=2&section=header" width="100%"/>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shakerbr&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ## 🧭 About
 
@@ -29,7 +35,7 @@
 ## 🛠️ Core Skills
 
 <div align="center">
-  
+
 | Category | Technologies |
 |---|---|
 | **Languages & Web** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23135C9F?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) |
@@ -42,7 +48,7 @@
 ## ⭐ Quick Picks
 
 <div align="center">
-  
+
 | **Favorite** | Embedded + Web integrations |
 |---|---|
 | **Work style** | Supreme Quality, Clear docs, iterative prototypes |
@@ -55,25 +61,10 @@
 - **Email** — [shbhky@gmail.com](mailto:shbhky@gmail.com)
 - **LinkedIn** — [linkedin.com/in/shakirbr](https://linkedin.com/in/shakirbr)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b91c1c&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b91c1c&height=80&section=footer" width="100%"/>
 
 <div align="center">
 
 *Made with curiosity and a focus on impact.* ⚡
 
 </div>
-
-<!--
-**shakerbr/shakerbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
