@@ -15,6 +15,7 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shakerbr&theme=transparent&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=shakerbr&theme=transparent&hide_border=true)<!-- (https://git.io/streak-stats) -->
+![GitHub Stats Card](https://ghstats.dev/api/card?username=shakerbr&border_radius=18.5&custom_title=Working&size=compact&compact_count=3&order=streak%2Ccontributions%2Cgrade%2Ctrend%2Cstars%2Ccommits%2Cprs%2Cissues%2Chours%2Cweek%2Cavg%2Cactive_day%2Crepos%2Cfollowers)
 
 </div>
 
